@@ -1,4 +1,6 @@
-
+/**
+ * This is the class where we will implement the basic functionalities of a calculator
+ */
 public class Calculator implements CalculatorFunctions {
     // add two numbers
     public int addition(int a, int b) {
